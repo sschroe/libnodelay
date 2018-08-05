@@ -64,4 +64,4 @@ You are welcome to contribute to this project, simply open a pull request with y
 
 ## License
 
-This project is licensed under the **GPL-3.0-or-later** License, see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the **GPL-3.0-or-later** License, see the [COPYING](COPYING) file for details
