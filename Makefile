@@ -1,5 +1,5 @@
 
-LIB_CFLAGS += -O2 -Wall -fPIC -shared -ldl
+LIB_CFLAGS += -O2 -Wall -fPIC -shared -Wl,--no-as-needed -ldl
 
 all: libnodelay.c
 	$(CC) $(LIB_CFLAGS) $(CFLAGS) -o libnodelay.so libnodelay.c
